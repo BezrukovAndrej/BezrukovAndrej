@@ -7,6 +7,9 @@ iOS-разработчик.
   
 Вы можете проверить мои закрепленные проекты, чтобы получить информацию о моих последних проектах.</h3>
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
   ### Как связаться со мной:
 [![Telegram Badge](https://img.shields.io/badge/-bezrukovandrej-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bezrukov_aa)
