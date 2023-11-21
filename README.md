@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andrej</h1>
 <h3 align="center">He who loves his work turns it into art. 
+
+
+
   
 You can check my pinned projects to get info about my last projects.</h3>
 
