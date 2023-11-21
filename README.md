@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andrej</h1>
 <h3 align="center">
-## An iOS Developer
+An iOS Developer.
+
+  
 He who loves his work turns it into art. 
 
   
