@@ -8,7 +8,7 @@
 Вы можете проверить мои закрепленные проекты, чтобы получить информацию о моих последних проектах.</h3>
 
   ### Connect with me:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/bezrukov_aa)
+[![Telegram Badge](https://img.shields.io/badge/-bezrukovandrej-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bezrukov_aa)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:bezrukovandrej@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
