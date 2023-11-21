@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Andrej</h1>
+<h1 align="center">Hi 👋, Привет!</h1>
 <h2 align="center">
-An iOS Developer.
+Я Безруков Андрей, iOS-разработчик.
 
-He who loves his work turns it into art. 
+«Любящий свое дело превращает его в искусство!»
 
   
-You can check my pinned projects to get info about my last projects.</h3>
+Вы можете проверить мои закрепленные проекты, чтобы получить информацию о моих последних проектах.</h3>
 
   ### Connect with me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/bezrukov_aa)
